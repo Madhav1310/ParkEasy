@@ -1,9 +1,3 @@
-/**
- * This class implements the SearchDestinationView class
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 
 import 'package:park_easy_app/controller/search_destination_controller.dart';

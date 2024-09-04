@@ -1,10 +1,3 @@
-/**
- * This class implements the SpaceSortButton class with
- * the attribute selected
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 
 class SpaceSortButton extends StatefulWidget {

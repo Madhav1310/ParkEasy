@@ -1,9 +1,3 @@
-/**
- * This class implements the DropDown class
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 
 import 'package:park_easy_app/model/destination.dart';

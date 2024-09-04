@@ -1,9 +1,3 @@
-/**
- * This class implements the SearchBox class
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 
 class SearchBox extends StatefulWidget {

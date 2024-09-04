@@ -1,10 +1,3 @@
-/**
- * This class implements the DistanceSortButton class with
- * the attribute selected
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 
 class DistanceSortButton extends StatefulWidget {

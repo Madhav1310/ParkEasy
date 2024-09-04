@@ -1,9 +1,3 @@
-/**
- * This class implements the DestinationManager class
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:park_easy_app/model/destination.dart';
 import 'package:park_easy_app/interface/google_api_interface.dart';
 import 'package:park_easy_app/interface/park_easy_subject.dart';

@@ -1,10 +1,3 @@
-/**
- * This class implements the NextButton class with
- * the attribute active
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 
 import 'display_car_parks_view.dart';

@@ -1,9 +1,3 @@
-/**
- * This class implements the SelectDialogBoxView class
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 import 'package:park_easy_app/controller/navigate_controller.dart';
 import 'package:park_easy_app/model/car_park_manager.dart';

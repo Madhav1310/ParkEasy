@@ -1,8 +1,3 @@
-/**
- * This class implements the GoogleAPIInterface class
- *
- * @author Lakshyajeet Dwivedee
- */
 import 'package:park_easy_app/model/destination.dart';
 import 'package:park_easy_app/api_keys.dart';
 

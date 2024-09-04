@@ -1,10 +1,3 @@
-/**
- * This class implements the Destination class with
- * the attributes name, latitude, longitude, placeID
- *
- * @author Lakshyajeet Dwivedee
- */
-
 class Destination {
   String name, placeID;
   double latitude, longitude;

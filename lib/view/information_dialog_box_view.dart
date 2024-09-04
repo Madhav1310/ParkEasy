@@ -1,9 +1,3 @@
-/**
- * This class implements the InformationDialogBoxView class
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 
 class InformationDialogBoxView extends StatelessWidget {

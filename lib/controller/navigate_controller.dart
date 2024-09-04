@@ -1,10 +1,3 @@
-/**
- * This class implements the NavigateController class
- * This class opens up the chosen car park in Google Maps
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:url_launcher/url_launcher.dart';
 
 class NavigateController {

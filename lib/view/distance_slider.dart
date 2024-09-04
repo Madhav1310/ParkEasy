@@ -1,10 +1,3 @@
-/**
- * This class implements the DistanceSlider class with
- * the attribute range
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 
 class DistanceSlider extends StatefulWidget {

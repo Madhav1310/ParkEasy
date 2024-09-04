@@ -1,9 +1,3 @@
-/**
- * This class implements the ShowInfoButton class
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 
 class ShowInfoButton extends StatefulWidget {

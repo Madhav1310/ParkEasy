@@ -1,9 +1,3 @@
-/**
- * This class implements the CarParkCard class
- *
- * @author Lakshyajeet Dwivedee
- */
-
 import 'package:flutter/material.dart';
 import 'package:park_easy_app/controller/select_car_park_controller.dart';
 import 'package:park_easy_app/model/car_park.dart';

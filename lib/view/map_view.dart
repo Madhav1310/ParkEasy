@@ -1,4 +1,3 @@
-//<<<<<<< .mine
 import 'package:flutter/material.dart';
 import 'package:park_easy_app/controller/select_car_park_controller.dart';
 import 'package:park_easy_app/view/car_park_card.dart';
