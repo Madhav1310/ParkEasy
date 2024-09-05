@@ -36,17 +36,17 @@ The app retrieves parking lot data via APIs from Singapore’s government and in
 Here’s a visual demo of the ParkEasy app:
 
 <p align="center">
-  <img width="150" alt="Home Page" src="https://github.com/user-attachments/assets/e851e96b-6fac-40cf-9071-963a5b792e9c">
+  <img width="130" alt="Home Page" src="https://github.com/user-attachments/assets/e851e96b-6fac-40cf-9071-963a5b792e9c">
 
-  <img width="150" alt="List View - Sorted by Distance" src="https://github.com/user-attachments/assets/46a1e552-dee3-4d48-b8bb-cdbf59e6f511">
+  <img width="130" alt="List View - Sorted by Distance" src="https://github.com/user-attachments/assets/46a1e552-dee3-4d48-b8bb-cdbf59e6f511">
 
-  <img width="150" alt="List View - Sorted by Empty Car Lots" src="https://github.com/user-attachments/assets/2667e0b7-fc97-48ef-ab9c-4fb78f77fd8a">
+  <img width="130" alt="List View - Sorted by Empty Car Lots" src="https://github.com/user-attachments/assets/2667e0b7-fc97-48ef-ab9c-4fb78f77fd8a">
 
-  <img width="150" alt="Map View" src="https://github.com/user-attachments/assets/205ae108-3b73-4c3f-8881-ee655d02ca37">
+  <img width="130" alt="Map View" src="https://github.com/user-attachments/assets/205ae108-3b73-4c3f-8881-ee655d02ca37">
 
-  <img width="150" alt="Clicking on a Car Park" src="https://github.com/user-attachments/assets/1493c562-bc11-45ec-b57c-90dc8374c38d">
+  <img width="130" alt="Clicking on a Car Park" src="https://github.com/user-attachments/assets/1493c562-bc11-45ec-b57c-90dc8374c38d">
 
-  <img width="150" alt="Navigating to the Car Park" src="https://github.com/user-attachments/assets/12a5e1d5-8646-4de6-be4f-1fb22f51a18b">
+  <img width="130" alt="Navigating to the Car Park" src="https://github.com/user-attachments/assets/12a5e1d5-8646-4de6-be4f-1fb22f51a18b">
 </p>
 
 <div align="center">
